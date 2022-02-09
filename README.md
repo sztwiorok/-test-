@@ -4,3 +4,4 @@ d
 d
 d
 zmiana
+z
