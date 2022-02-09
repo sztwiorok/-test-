@@ -5,3 +5,4 @@ d
 d
 zmiana
 z
+1
