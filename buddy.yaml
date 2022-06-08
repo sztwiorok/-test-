@@ -1,1 +1,8 @@
-test
+- pipeline: "nowy2"
+  on: "EVENT"
+  events:
+  - type: "PUSH"
+    refs:
+    - "refs/heads/master"
+  priority: "NORMAL"
+  fail_on_prepare_env_warning: true
