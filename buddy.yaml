@@ -1,4 +1,4 @@
-- pipeline: "nowy223"
+- pipeline: "nowy2234"
   on: "EVENT"
   events:
   - type: "PUSH"
